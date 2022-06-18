@@ -1,0 +1,1 @@
+A project which was created to practice on Learn Microsoft page to increased the knowleadge on frontend path.
